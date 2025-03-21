@@ -44,7 +44,7 @@ public class Main {
                     System.out.println("Opción no válida. Por favor, intente nuevamente.");
             }
 
-            System.out.println(); // Línea en blanco para separar las interacciones
+            System.out.println();
         }
     }
 }
